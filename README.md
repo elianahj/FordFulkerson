@@ -14,3 +14,17 @@
 - **DFS**(깊이우선탐색) : 현재 정점에서 더 이상 내려갈 수 없을 때까지 내려간 뒤 옆으로 이동
 - 잔여 용량 R이 보내는 용량 F보다 크거나 같은 경우만 찾는다
   =>  **R >= F**
+  
+  
+  
+-------
+### java 구현
+
+
+
+-------
+### 예제 풀이
+![image](https://user-images.githubusercontent.com/80517119/164936764-b9f630f0-e327-4f1f-860b-5c75ef2b4279.png)
+#### 실행 결과
+![Capture](https://user-images.githubusercontent.com/80517119/164936894-7ae9dfcb-6ae5-4419-9810-050a9faddd06.JPG)
+
